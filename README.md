@@ -58,12 +58,26 @@ Band clients:
   - Book studio
   - Pay system
 - Delete profile   
+
+### Studio owner functionalities:
+- Submit studio details
+    - Photos
+    - Available space
+    - Studio address
+    - Studio contact
+    - Technical equipment
+    - Maximum noise level
+
+- Owner contact
+
+- Choose plan
     
 ### Admin functionalities:
 - Overview of bookings
 - Overview of payments
 - Overview of most booked studios
 - Add and remove studios
+- Add / edit plans
 
 ### Landing page:
 - Featured studios
@@ -98,6 +112,21 @@ Band clients:
 - Technical specs of the studio
 - Photos of space and equipment
 - Optional: video tour
+
+
+## Content:
+- The client owns 8 recording studios spread over 2 locations, the content for these studios will be provided by the client to assure we have to content to boot the website
+
+- In addition to this, specifications, descriptions and photos of each of the to be rented studios will be provided by each of the studio owners who sign up for the service
+
+
+## Features:
+- As a musician, I can look for a recording studio when I want to record my demo
+- As a musician, I can add my instruments to my profile, so I can search for appropriate studios
+- As a studio owner, I can publish my studio on the website to get easier access to musicians looking for a place to record music
+- As a band, I can easily update our number of members and used instruments in our profile, so we can find an appropriate recording space by date
+
+
 
 
 
