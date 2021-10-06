@@ -20,6 +20,9 @@ https://www.itsonheadroom.nl/
 
 https://milocostudios.com/studios/
 
+https://www.studiotime.io/
+
+
 ## Target audience:
 Studio owner clients:
   - Possibility to be featured on landing page
@@ -31,6 +34,22 @@ Band clients:
   - Side projects from more experienced bands
   - Recording
   - Rehearsals
+
+Zikfreak targets two distinct clients: on the one hand musicians looking for a place to record their music and
+on the other hand studio owners who want to increase their reach and visibility and generate a higher revenue.
+The Zikfreak website wants to operate as a platform, and a bridge connecting the musician's and the owner's needs.
+
+The musicians:
+These can be any sort of group or person looking for a place to record or rehearse their music and make use of the equipment of the studio. 
+They can range from being beginner bands looking to record a demo, or more experienced, full fledged bands looking to record a new album.
+
+The studio owners: 
+People who own a venue equipped for practicing and recording music that want to increase bookings and revenue.
+
+
+## The Website:
+
+
 
 ## Scope:
 - Landing page
@@ -125,6 +144,10 @@ Band clients:
 - As a musician, I can add my instruments to my profile, so I can search for appropriate studios
 - As a studio owner, I can publish my studio on the website to get easier access to musicians looking for a place to record music
 - As a band, I can easily update our number of members and used instruments in our profile, so we can find an appropriate recording space by date
+
+
+![zikfreak](img/zikfreak.png)
+
 
 
 
